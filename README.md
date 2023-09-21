@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Hadoop project**
   
-- 📝 I'm a Java lecturer at MIPT
+- 📝 I'm a Java **lecturer at MIPT**
 
 - 🌱 I’m currently learning **Go & microservices**
 
